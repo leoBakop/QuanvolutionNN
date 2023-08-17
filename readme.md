@@ -1,2 +1,2 @@
-Implementing a simple quantum convolutional neural network, in order to solve faster the classification problem of the mnist dataset.
-The project was implemented for the Quantum II lectures in TUC (Technical University of Crete )
+Implementing a simple quantum convolutional (quanvolutional) neural network, in order to solve the classification problem of the mnist dataset in a faster way.
+This project was created for the Quantum Technology course at TUC (Technical University of Crete).
